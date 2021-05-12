@@ -4,3 +4,4 @@ function BoardMember(name,homestate,training){
   this.training = training;
 }
 
+BoardMember.veto
