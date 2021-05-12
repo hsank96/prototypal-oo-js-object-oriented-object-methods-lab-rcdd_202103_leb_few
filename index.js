@@ -10,4 +10,10 @@ BoardMember.approve = function(){return "You can do that!"}
 
 BoardMember.doCharity=function(){return "I like to help people"}
 
-BoardMember.
+BoardMember.releasePressStatement= function(){
+  return "You will see great things from Scuber."
+}
+
+BoardMember.sayHi = function(){
+  return `Hi, my name is ${this.name}
+}
